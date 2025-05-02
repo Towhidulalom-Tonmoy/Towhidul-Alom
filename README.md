@@ -1,5 +1,5 @@
-# Towhidul Alom
-<!DOCTYPE html><html lang="en">
+<!DOCTYPE html>
+<html lang="en">
 <head>
   <meta charset="UTF-8" />
   <meta name="viewport" content="width=device-width, initial-scale=1.0" />
@@ -58,16 +58,19 @@
     <img src="profile.jpg" alt="Towhidul Alom">
     <h1>Towhidul Alom</h1>
     <p>Diploma Computer Engineer & Digital Marketer</p>
-  </header>  <section>
+  </header>
+  <section>
     <h2>About Me</h2>
     <p>I was born in Narsingdi District, Dhaka Division, Bangladesh. Currently, I live in Barcelona, Spain. I studied up to class 5 in Arafat Kindergarten and Mulpara Primary School, then completed class 6 to 10 at Bhatpara NC Gupta High School. I completed a Diploma in Computer Engineering from Scholar Polytechnic Institute and passed Intermediate from Shaheed Asad Government College, Shibpur. During college, I won 1st place in 400m run and javelin throw, and later became district champion in hop-step-jump. I was also an active Rover Scout and held leadership roles. I now run a supermarket business in Barcelona.</p>
-  </section>  <section>
+  </section>
+  <section>
     <h2>Skills</h2>
     <ul>
       <li>Digital Marketing (Facebook Ads, SEO, Google Ads)</li>
       <li>Computer Engineering (Hardware & Software)</li>
     </ul>
-  </section>  <section>
+  </section>
+  <section>
     <h2>Social Links</h2>
     <div class="social">
       <a href="https://youtube.com/@towhidulalomtonmoy">YouTube</a>
@@ -77,7 +80,8 @@
       <a href="https://pin.it/7CIxtMW86">Pinterest</a>
       <a href="https://www.quora.com/profile/Towhidul-Alom-1">Quora</a>
     </div>
-  </section>  <section>
+  </section>
+  <section>
     <h2>Contact</h2>
     <p>Email: Towhidulalomtonmoyfb@gmail.com</p>
   </section>
